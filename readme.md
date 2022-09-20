@@ -7,7 +7,7 @@
 - rm -rf /docker_projects/sbdb_1/project
 - mkdir -p /docker_projects/sbdb_1/project
 - cd /docker_projects/sbdb_1/project
-- git clone https://github.com/ghdtmdvy2/Docker_Jenkis_09_20 .
+- git clone https://github.com/ghdtmdvy2/Docker_09_20 .
 - chmod 744 ./gradlew
 
 ## 그래들 빌드
